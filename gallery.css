@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+15&family=Oswald:wght@200..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+h1{
+    font-family: Playfair+Display, sans-serif;
+    font-weight: bolder;
+    color: purple;
+    align-items: center;
+    padding: 10px 700px;
+}
+body{
+    background-image: url(back4.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+p{
+    font-family: Playfair+Display, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgb(190, 76, 190);
+    
+}
+.home{
+    display: flex;
+} 
+
+
+
+
+.biryani{
+    background-image: url(biryani.jpeg);
+    background-size: cover;
+    height: 180px;
+    width: 250px;
+    margin-left: 20px;
+
+    
+}
+.chola{
+    background-image: url(chola.jpeg);
+    background-size: cover;
+    height: 180px;
+    width: 250px;
+    margin-left: 20px;
+}
+.dosa{
+    background-image: url(dosa.jpeg);
+    background-size: cover;
+    height: 180px;
+    width: 250px;
+    margin-left: 20px; 
+}
+.thali{
+    background-image: url(thali.jpeg);
+    background-size: cover;
+    height: 180px;
+    width: 250px;
+    margin-left: 20px;
+}
+.home2{
+    display: flex;
+}
+.salad1{
+    background-image: url(sld1.jpeg) ;
+    height: 180px;
+    width: 250px;
+    margin: 20px;
+}
+.salad2{
+    background-image: url(fruit.jpeg);
+    height: 180px;
+    width: 250px;
+    margin: 20px;
+}
+.salad3{
+    background-image: url(sld3.jpeg);
+    height: 180px;
+    width: 250px;
+    margin: 20px;
+}
+.salad4{
+
+    background-image: url(sld4.jpeg);
+    height: 180px;
+    width: 250px;
+    margin: 20px;
+}
+.home3{
+    display: flex;
+}
+.chiken{
+    background-image: url(chicken.jpeg);
+    height: 180px;
+    width: 250px;
+    margin: 20px;
+    
+}
+.mutton{
+    background-image: url(mutton.jpeg);
+    height: 180px;
+    width: 270px;
+    margin: 20px;
+}
+.egg{
+    background-image: url(egg.jpeg);
+    height: 180px;
+    width: 250px;
+    margin: 20px;
+    
+
+}
+.fish{
+    background-image: url(fish.jpeg);
+    height: 180px;
+    width: 250px;
+    margin: 20px;
+}
+.home4{
+    display: flex;
+}
+.gulab{
+    background-image: url(gulab.jpeg);
+    height: 180px;
+    width: 250px;
+    margin: 20px;
+}
+.ras{
+    background-image: url(ras.jpeg);
+    height: 180px;
+    width: 250px;
+    margin: 20px;
+}
+.pua{
+    background-image: url(pua.jpeg);
+    height: 180px;
+    width: 250px;
+    margin: 20px;
+}
+.son{
+    background-image: url(son.jpeg);
+    height: 180px;
+    width: 250px;
+    margin: 20px;
+}
